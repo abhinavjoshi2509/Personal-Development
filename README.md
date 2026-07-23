@@ -1,2 +1,2 @@
 # Personal-Development
-Tracking of my everyday works 
+Tracking of my works 
